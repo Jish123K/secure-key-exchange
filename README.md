@@ -1,5 +1,6 @@
-# secure-key-exchange
-building a secure key exchange mechanism using the Diffie-Hellman key exchange algorithm:
+# secure-key-exchange 
+
+A Secure key exchange mechanism using the Diffie-Hellman key exchange algorithm:
 
 Generate a large prime number p and a generator g. Both p and g should be publicly known and agreed upon by both parties.
 
